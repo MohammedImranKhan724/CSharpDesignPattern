@@ -1,6 +1,11 @@
 <Solution>
-  <Project Path="AbstractFactory/AbstractFactory.csproj" Id="0ca1f1a9-9a26-4e44-9dcc-73a875fe20d3" />
-  <Project Path="Builder/Builder.csproj" />
-  <Project Path="Factory/Factory.csproj" />
-  <Project Path="singleton/Singleton.csproj" />
+  <Folder Name="/Behavioral/" />
+  <Folder Name="/Creational/">
+    <Project Path="AbstractFactory/AbstractFactory.csproj" Id="0ca1f1a9-9a26-4e44-9dcc-73a875fe20d3" />
+    <Project Path="Builder/Builder.csproj" />
+    <Project Path="Factory/Factory.csproj" />
+    <Project Path="Prototype/Prototype.csproj" Id="4d6456ae-a938-4477-a151-e48918b1bac9" />
+    <Project Path="singleton/Singleton.csproj" />
+  </Folder>
+  <Folder Name="/Structural/" />
 </Solution>
