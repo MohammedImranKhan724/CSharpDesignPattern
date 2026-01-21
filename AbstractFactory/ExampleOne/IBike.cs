@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory.Example1
+﻿namespace AbstractFactory.ExampleOne
 {
     // The AbstractProductA interface
     // Each distinct product of the Bike product family should have a base interface.

@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory.Example2
+﻿namespace AbstractFactory.ExampleTwo
 {
     // The ProductA1 class
     // Concrete Products are going to be created by corresponding Concrete Factories.

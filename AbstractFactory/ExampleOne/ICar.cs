@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory.Example1
+﻿namespace AbstractFactory.ExampleOne
 {
     public interface ICar
     {

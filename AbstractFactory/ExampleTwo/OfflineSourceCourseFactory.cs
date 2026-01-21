@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory.Example2
+﻿namespace AbstractFactory.ExampleTwo
 {
     public class OfflineSourceCourseFactory : ISourceCourseFactory
     {

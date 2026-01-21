@@ -1,14 +1,14 @@
-﻿namespace AbstractFactory.Example1
+﻿namespace AbstractFactory.ExampleTwo
 {
     // The AbstractFactory interface
     // The Abstract Factory interface declares a set of methods that return different abstract products. 
     // These products are called a family. 
     // A family of products may have several variants
-    public interface IVehicleFactory
+    public interface ISourceCourseFactory
     {
-        //Abstract ProductA
-        IBike CreateBike();
-        //Abstract ProductB
-        ICar CreateCar();
+        //Abstract Product A
+        ISource GetSource();
+        //Abstract Product B
+        ICourse GetCourse();
     }
 }

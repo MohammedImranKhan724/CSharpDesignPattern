@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory.Example2
+﻿namespace AbstractFactory.ExampleTwo
 {
     // The AbstractProductA interface
     // Each distinct product of the Course product family should have a base interface.

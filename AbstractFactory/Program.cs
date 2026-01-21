@@ -1,7 +1,7 @@
 ﻿//// Fetch the Regular Bike and Car Details
 //// Creating RegularVehicleFactory instance
 
-//using AbstractFactory.Example1;
+//using AbstractFactory.ExampleOne;
 
 //IVehicleFactory regularVehicleFactory = new RegularVehicleFactory();
 
@@ -32,7 +32,8 @@
 // Fetch the Front End Course and Source Details
 // Creating OfflineSourceCourseFactory instance
 
-using AbstractFactory.Example2;
+
+using AbstractFactory.ExampleTwo;
 
 ISourceCourseFactory offlineSourceCourseFactory = new OfflineSourceCourseFactory();
 

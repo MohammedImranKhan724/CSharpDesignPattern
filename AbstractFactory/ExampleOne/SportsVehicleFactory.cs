@@ -1,4 +1,6 @@
-﻿namespace AbstractFactory.Example1
+﻿using AbstractFactory.Example1;
+
+namespace AbstractFactory.ExampleOne
 {
     // The ConcreteFactory2 class
     // Concrete Factories produce a family of products that belong to a single variant. 
