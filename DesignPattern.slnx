@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AbstractFactory/AbstractFactory.csproj" Id="0ca1f1a9-9a26-4e44-9dcc-73a875fe20d3" />
+  <Project Path="Factory/Factory.csproj" />
+  <Project Path="singleton/Singleton.csproj" />
+</Solution>
